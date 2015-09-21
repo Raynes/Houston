@@ -1,8 +1,8 @@
-SetColor set {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} to {blue,red,purple,green,orange,white|Color}
-SetColor make {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} {blue,red,purple,green,orange,white|Color}
-SetColor set the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} to {blue,red,purple,green,orange,white|Color}
-SetColor make the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} {blue,red,purple,green,orange,white|Color}
-SetColor set {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights to {blue,red,purple,green,orange,white|Color}
-SetColor make {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights {blue,red,purple,green,orange,white|Color}
-SetColor set the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights to {blue,red,purple,green,orange,white|Color}
-SetColor make the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights {blue,red,purple,green,orange,white|Color}
+SetColor set {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} to {blue,red,purple,green,orange,white,Alabama Crimson|Color}
+SetColor make {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} {blue,red,purple,green,orange,white,Alabama Crimson|Color}
+SetColor set the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} to {blue,red,purple,green,orange,white,Alabama Crimson|Color}
+SetColor make the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} {blue,red,purple,green,orange,white,Alabama Crimson|Color}
+SetColor set {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights to {blue,red,purple,green,orange,white,Alabama Crimson|Color}
+SetColor make {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights {blue,red,purple,green,orange,white,Alabama Crimson|Color}
+SetColor set the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights to {blue,red,purple,green,orange,white,Alabama Crimson|Color}
+SetColor make the {Living Room,Apartment,Anthony's Room,Anthony's Wall,Anthony's Globe,Hallway|Target} lights {blue,red,purple,green,orange,white,Alabama Crimson|Color}

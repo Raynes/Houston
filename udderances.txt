@@ -4,285 +4,333 @@ SetColor set {Living Room|Target} to {purple|Color}
 SetColor set {Living Room|Target} to {green|Color}
 SetColor set {Living Room|Target} to {orange|Color}
 SetColor set {Living Room|Target} to {white|Color}
+SetColor set {Living Room|Target} to {Alabama Crimson|Color}
 SetColor set {Apartment|Target} to {blue|Color}
 SetColor set {Apartment|Target} to {red|Color}
 SetColor set {Apartment|Target} to {purple|Color}
 SetColor set {Apartment|Target} to {green|Color}
 SetColor set {Apartment|Target} to {orange|Color}
 SetColor set {Apartment|Target} to {white|Color}
+SetColor set {Apartment|Target} to {Alabama Crimson|Color}
 SetColor set {Anthony's Room|Target} to {blue|Color}
 SetColor set {Anthony's Room|Target} to {red|Color}
 SetColor set {Anthony's Room|Target} to {purple|Color}
 SetColor set {Anthony's Room|Target} to {green|Color}
 SetColor set {Anthony's Room|Target} to {orange|Color}
 SetColor set {Anthony's Room|Target} to {white|Color}
+SetColor set {Anthony's Room|Target} to {Alabama Crimson|Color}
 SetColor set {Anthony's Wall|Target} to {blue|Color}
 SetColor set {Anthony's Wall|Target} to {red|Color}
 SetColor set {Anthony's Wall|Target} to {purple|Color}
 SetColor set {Anthony's Wall|Target} to {green|Color}
 SetColor set {Anthony's Wall|Target} to {orange|Color}
 SetColor set {Anthony's Wall|Target} to {white|Color}
+SetColor set {Anthony's Wall|Target} to {Alabama Crimson|Color}
 SetColor set {Anthony's Globe|Target} to {blue|Color}
 SetColor set {Anthony's Globe|Target} to {red|Color}
 SetColor set {Anthony's Globe|Target} to {purple|Color}
 SetColor set {Anthony's Globe|Target} to {green|Color}
 SetColor set {Anthony's Globe|Target} to {orange|Color}
 SetColor set {Anthony's Globe|Target} to {white|Color}
+SetColor set {Anthony's Globe|Target} to {Alabama Crimson|Color}
 SetColor set {Hallway|Target} to {blue|Color}
 SetColor set {Hallway|Target} to {red|Color}
 SetColor set {Hallway|Target} to {purple|Color}
 SetColor set {Hallway|Target} to {green|Color}
 SetColor set {Hallway|Target} to {orange|Color}
 SetColor set {Hallway|Target} to {white|Color}
+SetColor set {Hallway|Target} to {Alabama Crimson|Color}
 SetColor make {Living Room|Target} {blue|Color}
 SetColor make {Living Room|Target} {red|Color}
 SetColor make {Living Room|Target} {purple|Color}
 SetColor make {Living Room|Target} {green|Color}
 SetColor make {Living Room|Target} {orange|Color}
 SetColor make {Living Room|Target} {white|Color}
+SetColor make {Living Room|Target} {Alabama Crimson|Color}
 SetColor make {Apartment|Target} {blue|Color}
 SetColor make {Apartment|Target} {red|Color}
 SetColor make {Apartment|Target} {purple|Color}
 SetColor make {Apartment|Target} {green|Color}
 SetColor make {Apartment|Target} {orange|Color}
 SetColor make {Apartment|Target} {white|Color}
+SetColor make {Apartment|Target} {Alabama Crimson|Color}
 SetColor make {Anthony's Room|Target} {blue|Color}
 SetColor make {Anthony's Room|Target} {red|Color}
 SetColor make {Anthony's Room|Target} {purple|Color}
 SetColor make {Anthony's Room|Target} {green|Color}
 SetColor make {Anthony's Room|Target} {orange|Color}
 SetColor make {Anthony's Room|Target} {white|Color}
+SetColor make {Anthony's Room|Target} {Alabama Crimson|Color}
 SetColor make {Anthony's Wall|Target} {blue|Color}
 SetColor make {Anthony's Wall|Target} {red|Color}
 SetColor make {Anthony's Wall|Target} {purple|Color}
 SetColor make {Anthony's Wall|Target} {green|Color}
 SetColor make {Anthony's Wall|Target} {orange|Color}
 SetColor make {Anthony's Wall|Target} {white|Color}
+SetColor make {Anthony's Wall|Target} {Alabama Crimson|Color}
 SetColor make {Anthony's Globe|Target} {blue|Color}
 SetColor make {Anthony's Globe|Target} {red|Color}
 SetColor make {Anthony's Globe|Target} {purple|Color}
 SetColor make {Anthony's Globe|Target} {green|Color}
 SetColor make {Anthony's Globe|Target} {orange|Color}
 SetColor make {Anthony's Globe|Target} {white|Color}
+SetColor make {Anthony's Globe|Target} {Alabama Crimson|Color}
 SetColor make {Hallway|Target} {blue|Color}
 SetColor make {Hallway|Target} {red|Color}
 SetColor make {Hallway|Target} {purple|Color}
 SetColor make {Hallway|Target} {green|Color}
 SetColor make {Hallway|Target} {orange|Color}
 SetColor make {Hallway|Target} {white|Color}
+SetColor make {Hallway|Target} {Alabama Crimson|Color}
 SetColor set the {Living Room|Target} to {blue|Color}
 SetColor set the {Living Room|Target} to {red|Color}
 SetColor set the {Living Room|Target} to {purple|Color}
 SetColor set the {Living Room|Target} to {green|Color}
 SetColor set the {Living Room|Target} to {orange|Color}
 SetColor set the {Living Room|Target} to {white|Color}
+SetColor set the {Living Room|Target} to {Alabama Crimson|Color}
 SetColor set the {Apartment|Target} to {blue|Color}
 SetColor set the {Apartment|Target} to {red|Color}
 SetColor set the {Apartment|Target} to {purple|Color}
 SetColor set the {Apartment|Target} to {green|Color}
 SetColor set the {Apartment|Target} to {orange|Color}
 SetColor set the {Apartment|Target} to {white|Color}
+SetColor set the {Apartment|Target} to {Alabama Crimson|Color}
 SetColor set the {Anthony's Room|Target} to {blue|Color}
 SetColor set the {Anthony's Room|Target} to {red|Color}
 SetColor set the {Anthony's Room|Target} to {purple|Color}
 SetColor set the {Anthony's Room|Target} to {green|Color}
 SetColor set the {Anthony's Room|Target} to {orange|Color}
 SetColor set the {Anthony's Room|Target} to {white|Color}
+SetColor set the {Anthony's Room|Target} to {Alabama Crimson|Color}
 SetColor set the {Anthony's Wall|Target} to {blue|Color}
 SetColor set the {Anthony's Wall|Target} to {red|Color}
 SetColor set the {Anthony's Wall|Target} to {purple|Color}
 SetColor set the {Anthony's Wall|Target} to {green|Color}
 SetColor set the {Anthony's Wall|Target} to {orange|Color}
 SetColor set the {Anthony's Wall|Target} to {white|Color}
+SetColor set the {Anthony's Wall|Target} to {Alabama Crimson|Color}
 SetColor set the {Anthony's Globe|Target} to {blue|Color}
 SetColor set the {Anthony's Globe|Target} to {red|Color}
 SetColor set the {Anthony's Globe|Target} to {purple|Color}
 SetColor set the {Anthony's Globe|Target} to {green|Color}
 SetColor set the {Anthony's Globe|Target} to {orange|Color}
 SetColor set the {Anthony's Globe|Target} to {white|Color}
+SetColor set the {Anthony's Globe|Target} to {Alabama Crimson|Color}
 SetColor set the {Hallway|Target} to {blue|Color}
 SetColor set the {Hallway|Target} to {red|Color}
 SetColor set the {Hallway|Target} to {purple|Color}
 SetColor set the {Hallway|Target} to {green|Color}
 SetColor set the {Hallway|Target} to {orange|Color}
 SetColor set the {Hallway|Target} to {white|Color}
+SetColor set the {Hallway|Target} to {Alabama Crimson|Color}
 SetColor make the {Living Room|Target} {blue|Color}
 SetColor make the {Living Room|Target} {red|Color}
 SetColor make the {Living Room|Target} {purple|Color}
 SetColor make the {Living Room|Target} {green|Color}
 SetColor make the {Living Room|Target} {orange|Color}
 SetColor make the {Living Room|Target} {white|Color}
+SetColor make the {Living Room|Target} {Alabama Crimson|Color}
 SetColor make the {Apartment|Target} {blue|Color}
 SetColor make the {Apartment|Target} {red|Color}
 SetColor make the {Apartment|Target} {purple|Color}
 SetColor make the {Apartment|Target} {green|Color}
 SetColor make the {Apartment|Target} {orange|Color}
 SetColor make the {Apartment|Target} {white|Color}
+SetColor make the {Apartment|Target} {Alabama Crimson|Color}
 SetColor make the {Anthony's Room|Target} {blue|Color}
 SetColor make the {Anthony's Room|Target} {red|Color}
 SetColor make the {Anthony's Room|Target} {purple|Color}
 SetColor make the {Anthony's Room|Target} {green|Color}
 SetColor make the {Anthony's Room|Target} {orange|Color}
 SetColor make the {Anthony's Room|Target} {white|Color}
+SetColor make the {Anthony's Room|Target} {Alabama Crimson|Color}
 SetColor make the {Anthony's Wall|Target} {blue|Color}
 SetColor make the {Anthony's Wall|Target} {red|Color}
 SetColor make the {Anthony's Wall|Target} {purple|Color}
 SetColor make the {Anthony's Wall|Target} {green|Color}
 SetColor make the {Anthony's Wall|Target} {orange|Color}
 SetColor make the {Anthony's Wall|Target} {white|Color}
+SetColor make the {Anthony's Wall|Target} {Alabama Crimson|Color}
 SetColor make the {Anthony's Globe|Target} {blue|Color}
 SetColor make the {Anthony's Globe|Target} {red|Color}
 SetColor make the {Anthony's Globe|Target} {purple|Color}
 SetColor make the {Anthony's Globe|Target} {green|Color}
 SetColor make the {Anthony's Globe|Target} {orange|Color}
 SetColor make the {Anthony's Globe|Target} {white|Color}
+SetColor make the {Anthony's Globe|Target} {Alabama Crimson|Color}
 SetColor make the {Hallway|Target} {blue|Color}
 SetColor make the {Hallway|Target} {red|Color}
 SetColor make the {Hallway|Target} {purple|Color}
 SetColor make the {Hallway|Target} {green|Color}
 SetColor make the {Hallway|Target} {orange|Color}
 SetColor make the {Hallway|Target} {white|Color}
+SetColor make the {Hallway|Target} {Alabama Crimson|Color}
 SetColor set {Living Room|Target} lights to {blue|Color}
 SetColor set {Living Room|Target} lights to {red|Color}
 SetColor set {Living Room|Target} lights to {purple|Color}
 SetColor set {Living Room|Target} lights to {green|Color}
 SetColor set {Living Room|Target} lights to {orange|Color}
 SetColor set {Living Room|Target} lights to {white|Color}
+SetColor set {Living Room|Target} lights to {Alabama Crimson|Color}
 SetColor set {Apartment|Target} lights to {blue|Color}
 SetColor set {Apartment|Target} lights to {red|Color}
 SetColor set {Apartment|Target} lights to {purple|Color}
 SetColor set {Apartment|Target} lights to {green|Color}
 SetColor set {Apartment|Target} lights to {orange|Color}
 SetColor set {Apartment|Target} lights to {white|Color}
+SetColor set {Apartment|Target} lights to {Alabama Crimson|Color}
 SetColor set {Anthony's Room|Target} lights to {blue|Color}
 SetColor set {Anthony's Room|Target} lights to {red|Color}
 SetColor set {Anthony's Room|Target} lights to {purple|Color}
 SetColor set {Anthony's Room|Target} lights to {green|Color}
 SetColor set {Anthony's Room|Target} lights to {orange|Color}
 SetColor set {Anthony's Room|Target} lights to {white|Color}
+SetColor set {Anthony's Room|Target} lights to {Alabama Crimson|Color}
 SetColor set {Anthony's Wall|Target} lights to {blue|Color}
 SetColor set {Anthony's Wall|Target} lights to {red|Color}
 SetColor set {Anthony's Wall|Target} lights to {purple|Color}
 SetColor set {Anthony's Wall|Target} lights to {green|Color}
 SetColor set {Anthony's Wall|Target} lights to {orange|Color}
 SetColor set {Anthony's Wall|Target} lights to {white|Color}
+SetColor set {Anthony's Wall|Target} lights to {Alabama Crimson|Color}
 SetColor set {Anthony's Globe|Target} lights to {blue|Color}
 SetColor set {Anthony's Globe|Target} lights to {red|Color}
 SetColor set {Anthony's Globe|Target} lights to {purple|Color}
 SetColor set {Anthony's Globe|Target} lights to {green|Color}
 SetColor set {Anthony's Globe|Target} lights to {orange|Color}
 SetColor set {Anthony's Globe|Target} lights to {white|Color}
+SetColor set {Anthony's Globe|Target} lights to {Alabama Crimson|Color}
 SetColor set {Hallway|Target} lights to {blue|Color}
 SetColor set {Hallway|Target} lights to {red|Color}
 SetColor set {Hallway|Target} lights to {purple|Color}
 SetColor set {Hallway|Target} lights to {green|Color}
 SetColor set {Hallway|Target} lights to {orange|Color}
 SetColor set {Hallway|Target} lights to {white|Color}
+SetColor set {Hallway|Target} lights to {Alabama Crimson|Color}
 SetColor make {Living Room|Target} lights {blue|Color}
 SetColor make {Living Room|Target} lights {red|Color}
 SetColor make {Living Room|Target} lights {purple|Color}
 SetColor make {Living Room|Target} lights {green|Color}
 SetColor make {Living Room|Target} lights {orange|Color}
 SetColor make {Living Room|Target} lights {white|Color}
+SetColor make {Living Room|Target} lights {Alabama Crimson|Color}
 SetColor make {Apartment|Target} lights {blue|Color}
 SetColor make {Apartment|Target} lights {red|Color}
 SetColor make {Apartment|Target} lights {purple|Color}
 SetColor make {Apartment|Target} lights {green|Color}
 SetColor make {Apartment|Target} lights {orange|Color}
 SetColor make {Apartment|Target} lights {white|Color}
+SetColor make {Apartment|Target} lights {Alabama Crimson|Color}
 SetColor make {Anthony's Room|Target} lights {blue|Color}
 SetColor make {Anthony's Room|Target} lights {red|Color}
 SetColor make {Anthony's Room|Target} lights {purple|Color}
 SetColor make {Anthony's Room|Target} lights {green|Color}
 SetColor make {Anthony's Room|Target} lights {orange|Color}
 SetColor make {Anthony's Room|Target} lights {white|Color}
+SetColor make {Anthony's Room|Target} lights {Alabama Crimson|Color}
 SetColor make {Anthony's Wall|Target} lights {blue|Color}
 SetColor make {Anthony's Wall|Target} lights {red|Color}
 SetColor make {Anthony's Wall|Target} lights {purple|Color}
 SetColor make {Anthony's Wall|Target} lights {green|Color}
 SetColor make {Anthony's Wall|Target} lights {orange|Color}
 SetColor make {Anthony's Wall|Target} lights {white|Color}
+SetColor make {Anthony's Wall|Target} lights {Alabama Crimson|Color}
 SetColor make {Anthony's Globe|Target} lights {blue|Color}
 SetColor make {Anthony's Globe|Target} lights {red|Color}
 SetColor make {Anthony's Globe|Target} lights {purple|Color}
 SetColor make {Anthony's Globe|Target} lights {green|Color}
 SetColor make {Anthony's Globe|Target} lights {orange|Color}
 SetColor make {Anthony's Globe|Target} lights {white|Color}
+SetColor make {Anthony's Globe|Target} lights {Alabama Crimson|Color}
 SetColor make {Hallway|Target} lights {blue|Color}
 SetColor make {Hallway|Target} lights {red|Color}
 SetColor make {Hallway|Target} lights {purple|Color}
 SetColor make {Hallway|Target} lights {green|Color}
 SetColor make {Hallway|Target} lights {orange|Color}
 SetColor make {Hallway|Target} lights {white|Color}
+SetColor make {Hallway|Target} lights {Alabama Crimson|Color}
 SetColor set the {Living Room|Target} lights to {blue|Color}
 SetColor set the {Living Room|Target} lights to {red|Color}
 SetColor set the {Living Room|Target} lights to {purple|Color}
 SetColor set the {Living Room|Target} lights to {green|Color}
 SetColor set the {Living Room|Target} lights to {orange|Color}
 SetColor set the {Living Room|Target} lights to {white|Color}
+SetColor set the {Living Room|Target} lights to {Alabama Crimson|Color}
 SetColor set the {Apartment|Target} lights to {blue|Color}
 SetColor set the {Apartment|Target} lights to {red|Color}
 SetColor set the {Apartment|Target} lights to {purple|Color}
 SetColor set the {Apartment|Target} lights to {green|Color}
 SetColor set the {Apartment|Target} lights to {orange|Color}
 SetColor set the {Apartment|Target} lights to {white|Color}
+SetColor set the {Apartment|Target} lights to {Alabama Crimson|Color}
 SetColor set the {Anthony's Room|Target} lights to {blue|Color}
 SetColor set the {Anthony's Room|Target} lights to {red|Color}
 SetColor set the {Anthony's Room|Target} lights to {purple|Color}
 SetColor set the {Anthony's Room|Target} lights to {green|Color}
 SetColor set the {Anthony's Room|Target} lights to {orange|Color}
 SetColor set the {Anthony's Room|Target} lights to {white|Color}
+SetColor set the {Anthony's Room|Target} lights to {Alabama Crimson|Color}
 SetColor set the {Anthony's Wall|Target} lights to {blue|Color}
 SetColor set the {Anthony's Wall|Target} lights to {red|Color}
 SetColor set the {Anthony's Wall|Target} lights to {purple|Color}
 SetColor set the {Anthony's Wall|Target} lights to {green|Color}
 SetColor set the {Anthony's Wall|Target} lights to {orange|Color}
 SetColor set the {Anthony's Wall|Target} lights to {white|Color}
+SetColor set the {Anthony's Wall|Target} lights to {Alabama Crimson|Color}
 SetColor set the {Anthony's Globe|Target} lights to {blue|Color}
 SetColor set the {Anthony's Globe|Target} lights to {red|Color}
 SetColor set the {Anthony's Globe|Target} lights to {purple|Color}
 SetColor set the {Anthony's Globe|Target} lights to {green|Color}
 SetColor set the {Anthony's Globe|Target} lights to {orange|Color}
 SetColor set the {Anthony's Globe|Target} lights to {white|Color}
+SetColor set the {Anthony's Globe|Target} lights to {Alabama Crimson|Color}
 SetColor set the {Hallway|Target} lights to {blue|Color}
 SetColor set the {Hallway|Target} lights to {red|Color}
 SetColor set the {Hallway|Target} lights to {purple|Color}
 SetColor set the {Hallway|Target} lights to {green|Color}
 SetColor set the {Hallway|Target} lights to {orange|Color}
 SetColor set the {Hallway|Target} lights to {white|Color}
+SetColor set the {Hallway|Target} lights to {Alabama Crimson|Color}
 SetColor make the {Living Room|Target} lights {blue|Color}
 SetColor make the {Living Room|Target} lights {red|Color}
 SetColor make the {Living Room|Target} lights {purple|Color}
 SetColor make the {Living Room|Target} lights {green|Color}
 SetColor make the {Living Room|Target} lights {orange|Color}
 SetColor make the {Living Room|Target} lights {white|Color}
+SetColor make the {Living Room|Target} lights {Alabama Crimson|Color}
 SetColor make the {Apartment|Target} lights {blue|Color}
 SetColor make the {Apartment|Target} lights {red|Color}
 SetColor make the {Apartment|Target} lights {purple|Color}
 SetColor make the {Apartment|Target} lights {green|Color}
 SetColor make the {Apartment|Target} lights {orange|Color}
 SetColor make the {Apartment|Target} lights {white|Color}
+SetColor make the {Apartment|Target} lights {Alabama Crimson|Color}
 SetColor make the {Anthony's Room|Target} lights {blue|Color}
 SetColor make the {Anthony's Room|Target} lights {red|Color}
 SetColor make the {Anthony's Room|Target} lights {purple|Color}
 SetColor make the {Anthony's Room|Target} lights {green|Color}
 SetColor make the {Anthony's Room|Target} lights {orange|Color}
 SetColor make the {Anthony's Room|Target} lights {white|Color}
+SetColor make the {Anthony's Room|Target} lights {Alabama Crimson|Color}
 SetColor make the {Anthony's Wall|Target} lights {blue|Color}
 SetColor make the {Anthony's Wall|Target} lights {red|Color}
 SetColor make the {Anthony's Wall|Target} lights {purple|Color}
 SetColor make the {Anthony's Wall|Target} lights {green|Color}
 SetColor make the {Anthony's Wall|Target} lights {orange|Color}
 SetColor make the {Anthony's Wall|Target} lights {white|Color}
+SetColor make the {Anthony's Wall|Target} lights {Alabama Crimson|Color}
 SetColor make the {Anthony's Globe|Target} lights {blue|Color}
 SetColor make the {Anthony's Globe|Target} lights {red|Color}
 SetColor make the {Anthony's Globe|Target} lights {purple|Color}
 SetColor make the {Anthony's Globe|Target} lights {green|Color}
 SetColor make the {Anthony's Globe|Target} lights {orange|Color}
 SetColor make the {Anthony's Globe|Target} lights {white|Color}
+SetColor make the {Anthony's Globe|Target} lights {Alabama Crimson|Color}
 SetColor make the {Hallway|Target} lights {blue|Color}
 SetColor make the {Hallway|Target} lights {red|Color}
 SetColor make the {Hallway|Target} lights {purple|Color}
 SetColor make the {Hallway|Target} lights {green|Color}
 SetColor make the {Hallway|Target} lights {orange|Color}
 SetColor make the {Hallway|Target} lights {white|Color}
+SetColor make the {Hallway|Target} lights {Alabama Crimson|Color}
