@@ -85,11 +85,12 @@ bridge.then((ip) => {
             getSetStateFn(api, light).call(api, light.id, lightState, (err, results) => {
               if (err) {
                 console.error(err);
-                res.send(400, err);
+                res.send(400, "There was an error setting the state of the lights");
                 return next();
               } else {
-                console.log(`Set ${light.name} to ${color}.`)
-                res.send(200);
+                let msg = `Setting ${light.name} to ${color}`;
+                console.log(msg);
+                res.send(200, msg);
                 return next();
               }
             });
@@ -99,7 +100,14 @@ bridge.then((ip) => {
           }
         })
         .fail(err => {
-          res.send(400, err.stack);
+          var output = "";
+          if (err.message) {
+            output = err.message
+          } else {
+            output = "Failed to find lights"
+          }
+
+          res.send(400, output);
           return next();
         })
         .done();

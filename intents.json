@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "SetColor",
+      "slots": [
+        {
+          "name": "Color",
+          "type": "LITERAL"
+        },
+        {
+          "name": "Target",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}
