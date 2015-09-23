@@ -69,11 +69,10 @@ bridge.then((ip) => {
 
   function setColor(req, res, next) {
     let {body: {target, color}} = req;
-    target = target.toLowerCase();
     let rgb = colors[color.toLowerCase()];
-
+    let target = target || '';
     if (rgb) {
-      findLights(api, target)
+      findLights(api, target.toLowerCase())
         .then(light => {
           let [x, y] = convertRGBtoXY(rgb);
           let lightState = hue.lightState.create()
