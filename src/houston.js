@@ -70,7 +70,9 @@ bridge.then((ip) => {
   function setColor(req, res, next) {
     let {body: {target, color}} = req;
     let rgb = colors[color.toLowerCase()];
-    let target = target || '';
+
+    target = target || '';
+
     if (rgb) {
       findLights(api, target.toLowerCase())
         .then(light => {
